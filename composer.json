@@ -22,8 +22,8 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": "^7.4|^8.0",
-    "illuminate/database": "^8.0",
+    "php": "^7.4|^8.0|^8.2",
+    "illuminate/database": "^11.0",
     "ext-pgsql": "*"
   },
   "require-dev": {
